@@ -51,7 +51,7 @@
     "fs-extra": "^4.0.1",
     "graphcool-cli-core": "1.10.3-framework",
     "graphcool-cli-engine": "0.5.5-framework",
-    "semver": "^5.4.1",
+    "semver": "^5.7.2",
     "source-map-support": "^0.4.18"
   },
   "engines": {
